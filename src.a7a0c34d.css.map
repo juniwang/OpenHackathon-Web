@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.less"],"names":[],"mappings":"AAAA,2BAEQ","file":"src.a7a0c34d.css","sourceRoot":"../src","sourcesContent":[":global {\n    #sign-in:not(:empty) + #root {\n        display: none;\n    }\n}\n"]}
