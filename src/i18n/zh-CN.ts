@@ -66,11 +66,7 @@ export enum zh_CN {
     c7_big_data_technology = '7）大数据技术',
     c8_the_internet_of_things_technology_iot = '8）物联网IoT技术',
     if_the_above_workshop_topics_could_not_provide_satisfying_support_to_your_competition_please_write_down_the_workshop_topics_you_are_concerned_about_We_would_organize_associated_workshops_as_soon_as_possible = '如您不能在以上主题工作坊中获得比赛帮助，您可以写下您关注的工作坊主题，稍后我们会协调开展',
-    please_fill_in_the_following_box = '填写框：',
+    please_fill_in_the_following_box = '请填写：',
     joined_hackathons = '参与的活动'
-    
-
-
-    
     
   }
