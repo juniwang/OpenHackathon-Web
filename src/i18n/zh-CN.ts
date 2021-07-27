@@ -52,5 +52,25 @@ export enum zh_CN {
     auto_approve_tips = '申请加入团队的人无需团队管理员批准，自动成为团队成员。',
     followed_hackathons = '关注的活动',
     owned_hackathons = '创建的活动',
+    topic_1_volunteer_management_and_remote_collaboration_in_public_charity_organizations = '赛题1：公益慈善组织志愿者管理与远程协作',
+    topic_2_sustainable_tourism_low_carbon_tourism = '赛题2：可持续旅游（低碳旅游）',
+    topic_3_sustainable_agriculture = '赛题3：可持续农业',
+    topic_4_biodiversity_protection = '赛题4：生物多样性保护',
+    topic_5_other_topics_related_to_public_environmental_protection = '赛题5：其他与公益环保有关的主题',
+    c1_volunteer_management_and_remote_collaboration_in_public_charity_organizations = '1）公益慈善组织志愿者管理与远程协作',
+    c2_sustainable_tourism_low_carbon_tourism = '2）可持续旅游（低碳旅游）',
+    c3_sustainable_agriculture = '3）可持续农业',
+    c4_biodiversity_protection = '4）生物多样性保护',
+    c5_ethereum_blockchain_technology = '5）以太坊区块链技术',
+    c6_artificial_intelligence_technology_ai = '6）人工智能技术（AI）',
+    c7_big_data_technology = '7）大数据技术',
+    c8_the_internet_of_things_technology_iot = '8）物联网IoT技术',
+    if_the_above_workshop_topics_could_not_provide_satisfying_support_to_your_competition_please_write_down_the_workshop_topics_you_are_concerned_about_We_would_organize_associated_workshops_as_soon_as_possible = '如您不能在以上主题工作坊中获得比赛帮助，您可以写下您关注的工作坊主题，稍后我们会协调开展',
+    please_fill_in_the_following_box = '填写框：',
     joined_hackathons = '参与的活动'
-}
+    
+
+
+    
+    
+  }
